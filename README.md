@@ -1,3 +1,5 @@
+## Telegram URL Uploader Bot
+
 ## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
@@ -20,16 +22,15 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**Upgrade** your subscription for [JakeeDot](https://t.me/JakeeDot) without having to run anything on your own
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Jakeedot/URLUploaderBot)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
-cd URLuploader-With-Hotstar
+cd URLUploaderBot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
@@ -39,6 +40,6 @@ python3 bot.py
 
 * /start             - Check if bot is alive
 * /help              - To know how the bot works
-* /upgrade           - Nothing much here
+* /Upgrade           - Nothing much here
 * /deletethumbnail   - Clear saved thumbnail
 * /showthumb         - Show saved thumbnail
