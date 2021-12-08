@@ -6,7 +6,7 @@ class Translation(object):
 
 How to use me? 👉 /help 
 
-**Join: @DotBots**
+
 """
 
     HELP_USER = """ Read this👇..
@@ -19,7 +19,7 @@ How to use me? 👉 /help
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-**Join:👉 @DotBots**
+
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
